@@ -9,3 +9,6 @@ if (numero < 2) {
 } else {
   console.log("Cuack!");
 }
+
+/** Mostrara Cuack porque no se cumple el condicional.
+ * La variable numero, en esta caso con valor 3, es mas grande que 2.  */

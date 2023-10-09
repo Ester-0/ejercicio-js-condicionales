@@ -7,3 +7,5 @@ if (1 < 2) {
 } else {
   console.log("Guau!");
 }
+
+/** Mostrara Miau porque el condicianal es verdarero, uno es mas pequeño que dos. */

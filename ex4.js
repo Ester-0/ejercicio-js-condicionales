@@ -3,7 +3,7 @@
  * 2. Asigna un valor adecuado a la variable "número" para que, por consola, se muestra tan solo "BUP!BUP!"
  */
 
-let numero = -1; /** Solamente puedes modificar esta línea */
+let numero = 0; /** Solamente puedes modificar esta línea */
 
 if (numero <= 0) {
   console.log("BUP!BUP!");
@@ -12,3 +12,5 @@ if (numero <= 0) {
 if (numero <= -1) {
   console.log("CROAK!!");
 }
+
+/** Se muestran dos mensajes. Hay que modificar la variable numero a cero para que se muestre "BUP!BUP! */
