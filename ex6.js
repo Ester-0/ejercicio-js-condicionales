@@ -15,3 +15,7 @@ if (4 > 3 && 6 > 5) {
 if (4 > 3 && -1 > 0) {
   console.log("Esta condición también se cumple?");
 }
+
+/** En el terminal ser mostrara "Esta condición se cumple". Porque las dos condiciones del if son verdaderas.
+ * En el caso del segundo if hay una condicion que no se cumple por lo tanto no se mostrara nada en el terminal.
+ */
